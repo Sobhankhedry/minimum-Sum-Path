@@ -1,0 +1,2 @@
+# minimum-Sum-Path
+exercise
